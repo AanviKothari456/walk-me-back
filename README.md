@@ -1,1 +1,3 @@
-Enjoy XD
+tasks:
+google maps API
+chat system
